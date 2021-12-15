@@ -22,6 +22,6 @@ while num != 0:
   total = total + num
   num = int(input("Enter a number or enter 0 to stop:"))
   counter = counter + 1
-  avg = total / counter
+avg = total / counter
 
 print("Average:", avg)
